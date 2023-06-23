@@ -6,3 +6,10 @@
 4.git commit -m "first commit"
 5. replace with yours - git remote add origin https://github.com/devtedke/devtedke.git
 6.git push -u origin master
+
+
+
+
+1.git add .
+2.git commit -m "changed variables in website"
+3.git push -u origin master
