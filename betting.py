@@ -10,4 +10,5 @@ elif reward == 4:
     print("ps4")
 elif reward == 5:
     print("carz")
-
+else:
+    print(" go home")
