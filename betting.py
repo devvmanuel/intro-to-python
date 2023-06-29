@@ -11,4 +11,4 @@ elif reward == 4:
 elif reward == 5:
     print("carz")
 else:
-    print(" go home")
+    print("ya ayt")
