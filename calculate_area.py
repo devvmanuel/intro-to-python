@@ -8,4 +8,4 @@ width = int(width)
 
 #perform calculation
 result = height * width
-print("area is", result)
+print(" The area is", result)
