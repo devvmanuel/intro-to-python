@@ -4,6 +4,8 @@ class Base:
         self.b = "and priviledges"
         self.c = "be honest"
         self.d = "rights and permissions"
+
+#https://justpasteit.it/adl6w        
 class Derived(Base):
     def __init__(self):
         print(self.a)
